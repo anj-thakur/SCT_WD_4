@@ -1,5 +1,5 @@
 # SCT_WD_4
-Task 2 - TO-DO Web Application using HTML, CSS, and JavaScript
+Task 4 - TO-DO Web Application using HTML, CSS, and JavaScript
 # To-Do Web App
 A simple and lightweight *To-Do Web App* built using *HTML, CSS, and JavaScript*.  
 It allows users to create, organize, edit, and complete tasks.  
